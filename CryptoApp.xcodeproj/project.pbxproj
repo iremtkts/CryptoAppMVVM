@@ -13,6 +13,7 @@
 		0D15827C29CB936900E2F628 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D15827A29CB936900E2F628 /* Main.storyboard */; };
 		0D15827E29CB936A00E2F628 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D15827D29CB936A00E2F628 /* Assets.xcassets */; };
 		0D15828129CB936A00E2F628 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D15827F29CB936A00E2F628 /* LaunchScreen.storyboard */; };
+		0D15828929CB959B00E2F628 /* CryptoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D15828829CB959B00E2F628 /* CryptoTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0D15827D29CB936A00E2F628 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0D15828029CB936A00E2F628 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0D15828229CB936A00E2F628 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0D15828829CB959B00E2F628 /* CryptoTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				0D15827429CB936900E2F628 /* AppDelegate.swift */,
 				0D15827629CB936900E2F628 /* SceneDelegate.swift */,
 				0D15827829CB936900E2F628 /* ViewController.swift */,
+				0D15828829CB959B00E2F628 /* CryptoTableViewCell.swift */,
 				0D15827A29CB936900E2F628 /* Main.storyboard */,
 				0D15827D29CB936A00E2F628 /* Assets.xcassets */,
 				0D15827F29CB936A00E2F628 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0D15828929CB959B00E2F628 /* CryptoTableViewCell.swift in Sources */,
 				0D15827929CB936900E2F628 /* ViewController.swift in Sources */,
 				0D15827529CB936900E2F628 /* AppDelegate.swift in Sources */,
 				0D15827729CB936900E2F628 /* SceneDelegate.swift in Sources */,
