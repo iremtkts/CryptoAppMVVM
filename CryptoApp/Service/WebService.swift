@@ -25,6 +25,6 @@ class WebService {
                     completion(cryptoList)
                 }
             }
-        }
+        }.resume()
     }
 }
